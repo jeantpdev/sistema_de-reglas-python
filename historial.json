@@ -1,0 +1,36 @@
+[
+   {
+      "Id": 0,
+      "Usuario": "Jean",
+      "Preguntas": [
+         "Tu personaje es nivel 85",
+         "Tu nivel de objeto es de 300 o 299",
+         "Cuantos puntos de justicia tienes 2000 o 1999",
+         "Haz completado la arena de Elites de Tierras Altas Crepusculares",
+         "Estas en una hermandad nivel 25"
+      ],
+      "Respuesta": [
+         "Si",
+         2000,
+         "no",
+         "no"
+      ]
+   },
+   {
+      "Id": 2,
+      "Usuario": "Pitt",
+      "Preguntas": [
+         "Tu personaje es nivel 85",
+         "Tu nivel de objeto es de 300 o 299",
+         "Cuantos puntos de justicia tienes 2000 o 1999",
+         "Haz completado la arena de Elites de Tierras Altas Crepusculares",
+         "Estas en una hermandad nivel 25"
+      ],
+      "Respuesta": [
+         "Si",
+         2000,
+         "No",
+         "No"
+      ]
+   }
+]
